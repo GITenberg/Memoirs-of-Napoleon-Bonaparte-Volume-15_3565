@@ -1,5 +1,5 @@
 _repo: Memoirs-of-Napoleon-Bonaparte-Volume-15_3565
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -42,5 +42,6 @@ subjects:
 - !lcc 'DC'
 - !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries'
 - !lcsh 'Private secretaries -- France -- Biography'
+- GITenberg
 title: Memoirs of Napoleon Bonaparte — Volume 15
 url: http://www.gutenberg.org/ebooks/3565
